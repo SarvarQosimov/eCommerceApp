@@ -8,21 +8,6 @@
 import SwiftUI
 import PhotosUI
 
-
-import UIKit
-
-class QanaqadurVC: UIViewController {
-    override func viewDidLoad() {
-        
-    }
-    
-    override func didReceiveMemoryWarning() {
-        let vc = UIViewController()
-        vc.modalPresentationStyle = .formSheet
-    }
-    
-}
-
 struct EditPofileView: View {
     @State var selectedItem: [PhotosPickerItem] = []
     @State var data: Data?
@@ -96,6 +81,7 @@ struct EditPofileView: View {
         Form() {
             Section {
                 TextField("Ismingizni kiriting", text: $name)
+                    .font(.body)
                     .frame(height: 45)
                 
                 TextField("Email adressni kiriting", text: $gmail)
