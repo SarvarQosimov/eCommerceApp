@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>top-level-items</key>
+	<array>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>37</string>
+					<key>EndingLineNumber</key>
+					<string>37</string>
+					<key>StartingColumnNumber</key>
+					<string>25</string>
+					<key>StartingLineNumber</key>
+					<string>37</string>
+					<key>Timestamp</key>
+					<string>729196094.601567</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>eCommerceApp/Views/FurnitureDetailView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>cornerRadius</string>
+				<key>leading</key>
+				<string>                        .background(Color.ColorByAppThemView(.white))
+                        //TODO: why we need .cornerRadius(20)
+                        .</string>
+				<key>trailing</key>
+				<string>(20)
+                        .offset(y: -30)
+                    }
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>60</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>59</string>
+					<key>Timestamp</key>
+					<string>729364384.5323271</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>eCommerceApp/Views/FurnitureDetailView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>            } placeholder: { } //TODO: put defalut image
+</string>
+				<key>leading</key>
+				<string>                    .ignoresSafeArea(edges: .top)
+                    .frame(height: 250)
+</string>
+				<key>trailing</key>
+				<string>        }
+    }
+    
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>221</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>220</string>
+					<key>Timestamp</key>
+					<string>729364384.532799</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>eCommerceApp/Views/FurnitureDetailView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>        .cornerRadius(15) //TODO: use clipShape
+</string>
+				<key>leading</key>
+				<string>        }
+        .background(Color.ColorByAppThemColor(.primary))
+</string>
+				<key>trailing</key>
+				<string>        .padding(.leading, 5)
+    }
+}
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>51</string>
+					<key>EndingLineNumber</key>
+					<string>21</string>
+					<key>StartingColumnNumber</key>
+					<string>45</string>
+					<key>StartingLineNumber</key>
+					<string>21</string>
+					<key>Timestamp</key>
+					<string>729196664.631731</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>eCommerceApp/Views/AllFurnituresView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>should</string>
+				<key>leading</key>
+				<string>                VStack {
+                    CustomBackButtonView(navigationTitle: "Barcha mebellar")
+                    //TODO: maybe ScrollView </string>
+				<key>trailing</key>
+				<string> remove (is LazyVGrid scrollable)
+                    ScrollView {
+                        LazyVGrid(columns: column, content: {
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>53</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>52</string>
+					<key>Timestamp</key>
+					<string>729365631.75623</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>eCommerceApp/Views/SearchPageView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>        
+</string>
+				<key>leading</key>
+				<string>                .bold()
+        }
+</string>
+				<key>trailing</key>
+				<string>        HStack {
+            TextField("     Mebel nomini kiriting", text: $searchTF)
+                .frame(height: 50)
+</string>
+			</dict>
+			<key>title</key>
+			<string>use clipShape instade of cornerRadius</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+	</array>
+</dict>
+</plist>
