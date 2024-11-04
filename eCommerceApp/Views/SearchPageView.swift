@@ -55,7 +55,7 @@ struct SearchPageView: View {
             TextField("     Mebel nomini kiriting !!!", text: $searchTF)
                 .frame(height: 50)
                 .background(Color(Constants.kSecondary))
-                .cornerRadius(15)
+                .cornerRadius(17)
                 .font(.custom(Constants.mainFont, size: 17))
                 .overlay (
                     RoundedRectangle(cornerRadius: 15)
