@@ -32,7 +32,6 @@
 		FF5A99CD2B7287E2002AFABE /* HomePageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5A99CC2B7287E2002AFABE /* HomePageView.swift */; };
 		FF5A99CF2B7360DC002AFABE /* CurrentNavigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5A99CE2B7360DC002AFABE /* CurrentNavigation.swift */; };
 		FF8BCD622B3F2F7E00E201E1 /* ImageSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8BCD612B3F2F7E00E201E1 /* ImageSliderView.swift */; };
-		FFC143612CBD4097009D2660 /* MorphingDragView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC143602CBD4097009D2660 /* MorphingDragView.swift */; };
 		FFCDFF902B5BAA6800006C52 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = FFCDFF8F2B5BAA6800006C52 /* FirebaseAuth */; };
 		FFCDFF922B5BAA6800006C52 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = FFCDFF912B5BAA6800006C52 /* FirebaseDatabase */; };
 		FFCDFF942B5BAA6800006C52 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = FFCDFF932B5BAA6800006C52 /* FirebaseFirestore */; };
@@ -97,7 +96,6 @@
 		FF5A99CC2B7287E2002AFABE /* HomePageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomePageView.swift; sourceTree = "<group>"; };
 		FF5A99CE2B7360DC002AFABE /* CurrentNavigation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CurrentNavigation.swift; sourceTree = "<group>"; };
 		FF8BCD612B3F2F7E00E201E1 /* ImageSliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSliderView.swift; sourceTree = "<group>"; };
-		FFC143602CBD4097009D2660 /* MorphingDragView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MorphingDragView.swift; sourceTree = "<group>"; };
 		FFCDFF972B5BF1ED00006C52 /* DataMananger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataMananger.swift; sourceTree = "<group>"; };
 		FFCDFF992B5EDA0D00006C52 /* FurnitureDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FurnitureDetailView.swift; sourceTree = "<group>"; };
 		FFD474B92B3EE8BA00F4250A /* ProductCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCardView.swift; sourceTree = "<group>"; };
@@ -217,14 +215,6 @@
 			path = ViewModels;
 			sourceTree = "<group>";
 		};
-		FFC1435D2CBD4048009D2660 /* test_project */ = {
-			isa = PBXGroup;
-			children = (
-				FFC143602CBD4097009D2660 /* MorphingDragView.swift */,
-			);
-			path = test_project;
-			sourceTree = "<group>";
-		};
 		FFD474B82B3EE77700F4250A /* Components */ = {
 			isa = PBXGroup;
 			children = (
@@ -251,7 +241,6 @@
 		FFEC7C7C2B52543F00860897 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				FFC1435D2CBD4048009D2660 /* test_project */,
 				FF0536A12B382E090073B14B /* ContentView.swift */,
 				FFEC7C7F2B529C8800860897 /* CartOfProductsView.swift */,
 				FFCDFF992B5EDA0D00006C52 /* FurnitureDetailView.swift */,
@@ -421,7 +410,6 @@
 				FFCDFF982B5BF1ED00006C52 /* DataMananger.swift in Sources */,
 				FF5A99C92B7210D5002AFABE /* ProfilePageVM.swift in Sources */,
 				FF3825E12B6011E400F97908 /* HomePageViewModel.swift in Sources */,
-				FFC143612CBD4097009D2660 /* MorphingDragView.swift in Sources */,
 				FFEC7C852B52A8DE00860897 /* Furniture.swift in Sources */,
 				FF5A99CD2B7287E2002AFABE /* HomePageView.swift in Sources */,
 				FF5A99C52B6F8BFD002AFABE /* EditPofileView.swift in Sources */,
