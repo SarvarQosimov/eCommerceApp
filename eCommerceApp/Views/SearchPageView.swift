@@ -52,7 +52,7 @@ struct SearchPageView: View {
         }
         
         HStack {
-            TextField("     Mebel nomini kiriting", text: $searchTF)
+            TextField("     Mebel nomini kiriting !!!", text: $searchTF)
                 .frame(height: 50)
                 .background(Color(Constants.kSecondary))
                 .cornerRadius(15)
